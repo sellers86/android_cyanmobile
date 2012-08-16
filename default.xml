@@ -61,6 +61,9 @@
   <project path="device/lge/p970" name="CyanogenMod/android_device_lge_p970" />
   <project path="device/lge/p990" name="CyanogenMod/android_device_lge_p990" />
   <project path="device/lge/p999" name="CyanogenMod/android_device_lge_p999" />
+  <project path="device/lge/thunderc_VM670" name="inferiorhumanorgans/android_device_lge_thunderc_VM670" />
+  <project path="device/lge/thunderc_common" name="inferiorhumanorgans/android_device_lge_thunderc_common" />
+  <project path="vendor/lge" name="inferiorhumanorgans/vendor_lge_thunderc" />
   <project path="device/lge/star-common" name="CyanogenMod/android_device_lge_star-common" />
   <project path="device/malata/smb-common" name="CyanogenMod/android_device_malata_smb-common" />
   <project path="device/malata/smb_a1002" name="CyanogenMod/android_device_malata_smb_a1002" />
